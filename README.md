@@ -5,7 +5,7 @@
 <!-- # <p align='center'> < Hello World, I am <img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/pro.png" height='38' width='215' /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='50' width='50'/> /> -->
 
 <!-- <img align='right' src="https://media3.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" alt='' height="300" width="300"></img> -->
-<img align='right' src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/aboutGif.gif" alt='' height='300' width='300' />
+<img align='right' src="https://github.com/raheetech/raheetech/blob/main/aboutGif%20(1).gif" alt='' height='300' width='300' />
 
 <p> I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses. </p>
 
@@ -18,13 +18,13 @@
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt='' width='30' height='30' /> Connect with me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prostyles.096@gmail.com) &nbsp;
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradipto-m/) &nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradipto-mondal/) &nbsp;
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://impradipto.web.app) &nbsp;
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Prostyles/) &nbsp;
-[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/procodes_96) &nbsp;
-[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pradipto96) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahee_km.it2020@msit.edu.in) &nbsp;
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheetech) &nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahee-kumar-mukherjee-552114218) &nbsp;
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.raheetech.in/chatbot/) &nbsp;
+[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/raheekmd5mg) &nbsp;
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/user3653qJ/) &nbsp;
+
 <!-- [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://hackerearth.com/@Prostyles_96) -->
 <!-- [![Website](https://img.shields.io/static/v1?label=Website&message=.&style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=blue&color=blue)](https://impradipto.web.app) -->
 
