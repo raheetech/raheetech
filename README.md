@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/raheetech/raheetech/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Rahee Kumar Mukherjee</h1>
 <h3 align="center">I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses.</h3>
 
@@ -11,13 +10,13 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👯 I’m looking to collaborate on [Full Stack Web Development,Competitive Programming](https://github.com/raheetech)
+- 👯 I’m looking to collaborate on **Full Stack Web Development, Java Developer**
 
 - 🤝 I’m looking for help with **Freelance Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.raheetech.in/](https://www.raheetech.in/)
+- 👨‍💻 All of my projects are available at [raheetech](https://www.raheetech.in/)
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/raheekmd5mg/articles](https://auth.geeksforgeeks.org/user/raheekmd5mg/articles)
+- 📝 I regularly write articles on [Geeks for Geeks](https://auth.geeksforgeeks.org/user/raheekmd5mg/articles)
 
 - 💬 Ask me about **Swing,Php,Java,MySql and Javascript**
 
