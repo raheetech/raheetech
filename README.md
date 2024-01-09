@@ -9,11 +9,11 @@
 
 <p> I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses. </p>
 
-- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Cross-Platform Mobile Apps</code> <code>DSA</code>**
-- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>Backend Development</code>&nbsp;<code>Competitive Programming</code>**
+- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Cross-Platform Web Development</code> <code>DSA</code>**
+- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>Full Stack Development</code>&nbsp;<code>Competitive Programming</code>**
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Freelance Projects</code>**
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:prostyles.096@gmail.com)** | **[Linkedin](https://linkedin.com/in/pradipto-mondal)**</code>
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](impradipto.web.app)</code>**
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:rahee_km.it2020@msit.edu.in)** | **[Linkedin](www.linkedin.com/in/rahee-kumar-mukherjee-552114218)**</code>
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](https://raheetech.in/)</code>**
 
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt='' width='30' height='30' /> Connect with me:
