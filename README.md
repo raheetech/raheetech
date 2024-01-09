@@ -1,75 +1,40 @@
-<!-- <p align='center'> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=515&height=65&lines=Hola!+Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Nice+to+meet+you+%F0%9F%98%8A;Have+a+nice+day+%F0%9F%8C%9E" alt='' /> </p> -->
+<h1 align="center">Hi 👋, I'm Rahee Kumar Mukherjee</h1>
+<h3 align="center">I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses.</h3>
 
-<img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/Banner.gif" alt='' />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raheetech&label=Profile%20views&color=0e75b6&style=flat" alt="raheetech" /> </p>
 
-<!-- # <p align='center'> < Hello World, I am <img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/pro.png" height='38' width='215' /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='50' width='50'/> /> -->
+- 🔭 I’m currently working on [Cross-Platform Web Development,DSA](https://www.raheetech.in/chatbot/)
 
-<!-- <img align='right' src="https://media3.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" alt='' height="300" width="300"></img> -->
-<img align='right' src="https://github.com/raheetech/raheetech/blob/main/aboutGif%20(1).gif" alt='' height='300' width='300' />
+- 🌱 I’m currently learning **Springboot**
 
-<p> I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses. </p>
+- 👯 I’m looking to collaborate on [Full Stack Web Development,Competitive Programming](https://github.com/raheetech)
 
-- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Cross-Platform Web Development</code> <code>DSA</code>**
-- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>Full Stack Development</code>&nbsp;<code>Competitive Programming</code>**
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Freelance Projects</code>**
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:rahee_km.it2020@msit.edu.in)** | **[Linkedin](www.linkedin.com/in/rahee-kumar-mukherjee-552114218)**</code>
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](https://raheetech.in/)</code>**
+- 🤝 I’m looking for help with **Freelance Projects**
 
+- 👨‍💻 All of my projects are available at [https://www.raheetech.in/](https://www.raheetech.in/)
 
-## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt='' width='30' height='30' /> Connect with me:
+- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/raheekmd5mg/articles](https://auth.geeksforgeeks.org/user/raheekmd5mg/articles)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahee_km.it2020@msit.edu.in) &nbsp;
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheetech) &nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahee-kumar-mukherjee-552114218/) &nbsp;
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.raheetech.in/chatbot/) &nbsp;
-[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/raheekmd5mg) &nbsp;
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/user3653qJ/) &nbsp;
+- 💬 Ask me about **Swing,Php,Java,MySql and Javascript**
 
-<!-- [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://hackerearth.com/@Prostyles_96) -->
-<!-- [![Website](https://img.shields.io/static/v1?label=Website&message=.&style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=blue&color=blue)](https://impradipto.web.app) -->
+- 📫 How to reach me **rahee_km.it2020@msit.edu.in**
 
+- 📄 Know about my experiences [https://github.com/raheetech/RESUME__2](https://github.com/raheetech/RESUME__2)
 
-## <img src="https://media1.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" alt='' height="40" width="70" /> My Tech Tools:
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
-<a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" alt="android" width="45" height="45"/> </a> &nbsp;
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp;
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
+<a href="https://twitter.com/39rahee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="39rahee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahee-kumar-mukherjee-552114218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahee-kumar-mukherjee-552114218/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rahee_km_it2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rahee_km_it2020" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/user3653qj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user3653qj/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/raheekmd5mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/raheekmd5mg" height="30" width="40" /></a>
 </p>
 
-<br/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## <img src="https://media4.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" alt='' height="40" width="40" /> Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raheetech&show_icons=true&locale=en&layout=compact" alt="raheetech" /></p>
 
-<img align='right' src="https://media2.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width='200' height='290'></img>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradipto-m&count_private=true&show_icons=true&theme=gotham&border_radius=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradipto-m&theme=gotham&border_radius=8)
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradipto-m&theme=tokyonight" alt="Pradipto" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipto-m&layout=compact&theme=gotham" alt="Pradipto" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raheetech&show_icons=true&locale=en" alt="raheetech" /></p>
 
-
-<!-- ![Lines of code](https://img.shields.io/badge/Written-5M%20lines%20of%20code-blue)
-![Profile views](https://gpvc.arturio.dev/Pradipto-m)
-![Profile views](https://komarev.com/ghpvc/?username=Pradipto-m&label=Profile%20views&color=0e75b6&style=flat)
-![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=Pradipto-m.Pradipto-m) -->
-
-<br/>
-<br/>
-
-<img align='right' src="https://media2.giphy.com/media/7DPisN3JAKJhEyDHIW/giphy.gif" width="200" height="200"></img>
-<br/>
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks for visiting my profile <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20Exclamation.png" alt='' width='38' height='38' />
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt='' width='35' height='35' /> Some Repos &nbsp; <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' />
-
-<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raheetech&" alt="raheetech" /></p>
