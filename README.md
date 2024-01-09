@@ -1,5 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Rahee Kumar Mukherjee</h1>
 <h3 align="center">I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses.</h3>
+
+<img align = "right" alt ="coding" width = "400" src= "https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheetech&label=Profile%20views&color=0e75b6&style=flat" alt="raheetech" /> </p>
 
