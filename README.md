@@ -20,7 +20,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahee_km.it2020@msit.edu.in) &nbsp;
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raheetech) &nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahee-kumar-mukherjee-552114218) &nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahee-kumar-mukherjee-552114218/) &nbsp;
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.raheetech.in/chatbot/) &nbsp;
 [![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/raheekmd5mg) &nbsp;
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/user3653qJ/) &nbsp;
