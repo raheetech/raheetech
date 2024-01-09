@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheetech&label=Profile%20views&color=0e75b6&style=flat" alt="raheetech" /> </p>
 
-- 🔭 I’m currently working on [Cross-Platform Web Development,DSA](https://www.raheetech.in/chatbot/)
+- 🔭 I’m currently working on **Cross-Platform Web Development , DSA**
 
 - 🌱 I’m currently learning **Springboot**
 
